@@ -1,0 +1,5 @@
+{
+  "port": 4001,
+  "files": ["./src/**/*.{html,htm,css,js}"],
+  "server": { "baseDir": "dist/headerApp" }
+}
